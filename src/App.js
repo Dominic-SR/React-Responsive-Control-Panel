@@ -65,6 +65,42 @@ function App() {
               </div>
             </div>
         </header>
+
+        <main>
+          <div className='cards'>
+
+            <div className='card-single'>
+              <div>
+                <h1>54</h1>
+                <span>Customers</span>
+              </div>
+              <div>
+                <span className='las la-users'></span>
+              </div>
+            </div>
+
+            <div className='card-single'>
+              <div>
+                <h1>124</h1>
+                <span>Orders</span>
+              </div>
+              <div>
+                <span className='las la-shopping-bag'></span>
+              </div>
+            </div>
+
+            <div className='card-single'>
+              <div>
+                <h1>6$</h1>
+                <span>Incomes</span>
+              </div>
+              <div>
+                <span className='las la-google-wallet'></span>
+              </div>
+            </div>
+
+          </div>
+        </main>
     </div>
     </>
   );
