@@ -5,7 +5,7 @@ function App() {
     <>
     <div className='sidebar'>
         <div className='sidebar-brand'>
-          <h1><span className='lab la-accusoft'>Accusoft</span></h1>
+          <h2><span className='lab la-accusoft'>Accusoft</span></h2>
         </div>
 
         <div className='sidebar-menu'>
@@ -45,12 +45,12 @@ function App() {
     
     <div className='main-content'>
         <header>
-            <h1>
+            <h2>
               <label for="">
                   <span className='las la-bars'></span>
               </label>
               Dashboard
-            </h1>
+            </h2>
 
             <div className='search-wrapper'>
                 <span className='las la-search'></span>
