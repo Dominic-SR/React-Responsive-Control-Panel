@@ -4,6 +4,7 @@ function App() {
   return (
     <>
     <div className='sidebar'>
+
         <div className='sidebar-brand'>
           <h2><span className='lab la-accusoft'>Accusoft</span></h2>
         </div>
@@ -40,6 +41,7 @@ function App() {
             </li>
           </ul>
         </div>
+        
     </div>
 
     
