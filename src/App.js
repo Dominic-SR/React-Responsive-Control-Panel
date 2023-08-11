@@ -24,7 +24,7 @@ function App() {
               <span>Projects</span></a>
             </li>
             <li>
-              <a href='https://www.google.com'><span className='las la-shipping-bag'></span>
+              <a href='https://www.google.com'><span className='las la-shopping-bag'></span>
               <span>Orders</span></a>
             </li>
             <li>
