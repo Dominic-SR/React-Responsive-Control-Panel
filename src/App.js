@@ -12,7 +12,7 @@ function App() {
         <div className='sidebar-menu'>
           <ul>
             <li>
-              <a href='https://www.google.com'><span className='las la-igloo'></span>
+              <a href='https://www.google.com' className='active'><span className='las la-igloo'></span>
               <span>Dashboard</span></a>
             </li>
             <li>
